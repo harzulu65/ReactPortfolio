@@ -141,7 +141,7 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://www.datasunrise.com/wp-content/uploads/2018/06/Active-Directory-Authentication-for-MySQL-Database-min.jpg) center / cover'}} >Project #1</CardTitle>
                 <CardText>
-                Da Burguer App
+                Employees Tracker App
                 </CardText>
                 <CardActions border>
                     <a target='_blank' href="https://e-power.herokuapp.com/">
@@ -160,13 +160,13 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://www.datasunrise.com/wp-content/uploads/2018/06/Active-Directory-Authentication-for-MySQL-Database-min.jpg) center / cover'}} >Project #2</CardTitle>
                 <CardText>
-                Budget Tracker
+                This is a placeholder for a MYSQL App
                 </CardText>
                 <CardActions border>
-                    <a target='_blank' href="https://evening-harbor-66447.herokuapp.com/">
+                    <a target='_blank' href="">
                         <Button colored>Heroku</Button>
                     </a>
-                    <a target='_blank' href="https://github.com/harzulu65/Budget">
+                    <a target='_blank' href="">
                         <Button colored>Github</Button>
                     </a>
                     <Button colored></Button>
@@ -179,13 +179,13 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://www.datasunrise.com/wp-content/uploads/2018/06/Active-Directory-Authentication-for-MySQL-Database-min.jpg) center / cover'}} >Project #3</CardTitle>
                 <CardText>
-                Fusce id velit ut tortor pretium viverra suspendisse. 
+                This is a placeholder for a MYSQL App
                 </CardText>
                 <CardActions border>
-                    <a target='_blank' href="https://amirashkan7091.github.io/project-one/">
+                    <a target='_blank' href="">
                         <Button colored>Heroku</Button>
                     </a>
-                    <a target='_blank' href="https://github.com/AmirAshkan7091/project-one">
+                    <a target='_blank' href="">
                         <Button colored>Github</Button>
                     </a>
                     <Button colored></Button>
@@ -203,7 +203,7 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #1</CardTitle>
                 <CardText>
-                Da Burguer App
+                This App was done in react
                 </CardText>
                 <CardActions border>
                     <a target='_blank' href="https://radiant-beach-31299.herokuapp.com/">
@@ -222,7 +222,7 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #2</CardTitle>
                 <CardText>
-                Budget Tracker
+                This is a placeholder for a react app
                 </CardText>
                 <CardActions border>
                     <a target='_blank' href="https://evening-harbor-66447.herokuapp.com/">
@@ -241,7 +241,7 @@ class Projects extends Component {
                 <CardTitle style={{color:'#fff', height: '176px', background: 
                 'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #3</CardTitle>
                 <CardText>
-                Fusce id velit ut tortor pretium viverra suspendisse. 
+                This is a placeholder for a react app
                 </CardText>
                 <CardActions border>
                     <a target='_blank' href="https://amirashkan7091.github.io/project-one/">
