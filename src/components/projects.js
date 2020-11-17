@@ -20,10 +20,10 @@ class Projects extends Component {
                 Da Burguer App
                 </CardText>
                 <CardActions border>
-                    <a type='_blank' href="https://burgertracking.herokuapp.com/">
+                    <a target='_blank' href="https://burgertracking.herokuapp.com/">
                         <Button colored>Heroku</Button>
                     </a>
-                    <a type='_blank' href="https://github.com/harzulu65/burger">
+                    <a target='_blank' href="https://github.com/harzulu65/burger">
                         <Button colored>Github</Button>
                     </a>
                     <Button colored></Button>
@@ -39,10 +39,10 @@ class Projects extends Component {
                 Budget Tracker
                 </CardText>
                 <CardActions border>
-                    <a type='_blank' href="https://evening-harbor-66447.herokuapp.com/">
+                    <a target='_blank' href="https://evening-harbor-66447.herokuapp.com/">
                         <Button colored>Heroku</Button>
                     </a>
-                    <a type='_blank' href="https://github.com/harzulu65/Budget">
+                    <a target='_blank' href="https://github.com/harzulu65/Budget">
                         <Button colored>Github</Button>
                     </a>
                     <Button colored></Button>
@@ -58,10 +58,10 @@ class Projects extends Component {
                 Fusce id velit ut tortor pretium viverra suspendisse. 
                 </CardText>
                 <CardActions border>
-                    <a type='_blank' href="https://workttracker.herokuapp.com/">
+                    <a target='_blank' href="https://workttracker.herokuapp.com/">
                         <Button colored>Heroku</Button>
                     </a>
-                    <a type='_blank' href="https://github.com/harzulu65/workout_tracker">
+                    <a target='_blank' href="https://github.com/harzulu65/workout_tracker">
                         <Button colored>Github</Button>
                     </a>
                     <Button colored></Button>
