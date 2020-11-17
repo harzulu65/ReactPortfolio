@@ -21,7 +21,7 @@ class Resume extends Component {
                         <h2 style={{paddingTop: '2em'}}>Harold Zuluaga</h2>
                         <h4 style={{color: 'grey'}}>Programmer</h4>
                         <hr style={{borderTop:'3px solid #833fb2', width: '50%'}}/>
-                        <p>Ut lectus arcu bibendum at varius vel. Netus et malesuada fames ac turpis egestas. Condimentum mattis pellentesque id nibh. </p>
+                        <p>Goal Oriented, Aerospace and Program Management experienced and resourceful individual</p>
                         <hr style={{borderTop:'3px solid #833fb2', width: '50%'}}/>
                         <h5>Address</h5>
                         <p>1 Hacker Way, Menlo Park, 94025</p>
@@ -37,50 +37,49 @@ class Resume extends Component {
                         <h2>Education</h2>
 
                         <Education 
-                            startYear={2012}
-                            endYear={2016}
-                            schoolName="My University"
-                            schoolDescription="A erat nam at lectus urna duis convallis convallis. Augue neque gravida in fermentum et sollicitudin ac orci. Vulputate mi sit amet mauris. Fringilla est ullamcorper eget nulla facilisi. Eu feugiat pretium nibh ipsum consequat nisl vel pretium."
+                            startYear={2020}
+                            endYear={2020}
+                            schoolName="University of California - Irvine"
+                            schoolDescription="Full Stack Web Development Certificate"
                             /> 
 
                         <Education 
-                            startYear={2012}
-                            endYear={2016}
-                            schoolName="My University"
-                            schoolDescription="A erat nam at lectus urna duis convallis convallis. Augue neque gravida in fermentum et sollicitudin ac orci. Vulputate mi sit amet mauris. Fringilla est ullamcorper eget nulla facilisi. Eu feugiat pretium nibh ipsum consequat nisl vel pretium."
+                            startYear={1989}
+                            endYear={1994}
+                            schoolName="Central University - Bogota - Colombia - South America"
+                            schoolDescription="Computer Science Engineering"
                             /> 
                         <hr style={{borderTop:'3px solid #e22947'}} />
                         <h2>Experience</h2>
 
                         <Experience 
-                            startYear={2009}
-                            endYear={2012}
-                            jobName="First Job"
-                            jobDescription="Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. In tellus integer feugiat scelerisque varius morbi. Eget mi proin sed libero enim sed faucibus turpis in. Dignissim sodales ut eu sem integer vitae justo eget."
+                            startYear={2008}
+                            endYear={2020}
+                            jobName="Safran Aerospace"
+                            jobDescription="Business/Systems Analyst - Operations Planner - Program Administrator - Program Manager"
 
                         />
 
                         <Experience 
-                            startYear={2009}
-                            endYear={2012}
-                            jobName="First Job"
-                            jobDescription="Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. In tellus integer feugiat scelerisque varius morbi. Eget mi proin sed libero enim sed faucibus turpis in. Dignissim sodales ut eu sem integer vitae justo eget."
+                            startYear={2001}
+                            endYear={2008}
+                            jobName="ECC"
+                            jobDescription="Medical/Technical/Admin"
 
                         />
 
                         <Experience 
-                            startYear={2009}
-                            endYear={2012}
-                            jobName="First Job"
-                            jobDescription="Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. In tellus integer feugiat scelerisque varius morbi. Eget mi proin sed libero enim sed faucibus turpis in. Dignissim sodales ut eu sem integer vitae justo eget."
-
+                            startYear={1994}
+                            endYear={1999}
+                            jobName="Datascan  -  Cibergenius"
+                            jobDescription="Technical Support Engineer - Computers- Software - Warehouse Wireless Networks - Barcode Technology"
                         />
                         <hr style={{borderTop:'3px solid #e22947'}} />
                         <h2>Skills</h2>
 
                         <Skills 
                             skill='HTMLCSS'
-                            progress={100}
+                            progress={50}
                         />
                         <Skills 
                             skill='JavaScript'
