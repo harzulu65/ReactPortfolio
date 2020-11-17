@@ -15,14 +15,18 @@ class Projects extends Component {
             <div className='projects-grid'>
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{color:'#fff', height: '176px', background: 
-                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >React Project #1</CardTitle>
+                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #1</CardTitle>
                 <CardText>
-                Fusce id velit ut tortor pretium viverra suspendisse. 
+                Da Burguer App
                 </CardText>
                 <CardActions border>
-                    <Button colored>Github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>LiveDemo</Button>
+                    <a type='_blank' href="https://burgertracking.herokuapp.com/">
+                        <Button colored>Heroku</Button>
+                    </a>
+                    <a type='_blank' href="https://github.com/harzulu65/burger">
+                        <Button colored>Github</Button>
+                    </a>
+                    <Button colored></Button>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                     <IconButton name="share" />
@@ -30,14 +34,18 @@ class Projects extends Component {
             </Card>
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{color:'#fff', height: '176px', background: 
-                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >React Project #2</CardTitle>
+                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #2</CardTitle>
                 <CardText>
-                Fusce id velit ut tortor pretium viverra suspendisse. 
+                Budget Tracker
                 </CardText>
                 <CardActions border>
-                    <Button colored>Github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>LiveDemo</Button>
+                    <a type='_blank' href="https://evening-harbor-66447.herokuapp.com/">
+                        <Button colored>Heroku</Button>
+                    </a>
+                    <a type='_blank' href="https://github.com/harzulu65/Budget">
+                        <Button colored>Github</Button>
+                    </a>
+                    <Button colored></Button>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                     <IconButton name="share" />
@@ -45,14 +53,18 @@ class Projects extends Component {
             </Card>
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{color:'#fff', height: '176px', background: 
-                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >React Project #3</CardTitle>
+                'url(https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png) center / cover'}} >Project #3</CardTitle>
                 <CardText>
                 Fusce id velit ut tortor pretium viverra suspendisse. 
                 </CardText>
                 <CardActions border>
-                    <Button colored>Github</Button>
-                    <Button colored>CodePen</Button>
-                    <Button colored>LiveDemo</Button>
+                    <a type='_blank' href="https://workttracker.herokuapp.com/">
+                        <Button colored>Heroku</Button>
+                    </a>
+                    <a type='_blank' href="https://github.com/harzulu65/workout_tracker">
+                        <Button colored>Github</Button>
+                    </a>
+                    <Button colored></Button>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                     <IconButton name="share" />
@@ -79,10 +91,10 @@ class Projects extends Component {
         return(
             <div className="category-tabs">
                 <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId})} ripple>
-                    <Tab>React</Tab>
+                    <Tab>Projects</Tab>
                     <Tab>MongoDB</Tab>
                     <Tab>MySQL</Tab>
-                    <Tab>Sengrid</Tab>
+                    <Tab>React</Tab>
                 </Tabs>
                     <Grid>
                         <Cell col={12}>

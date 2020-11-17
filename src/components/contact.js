@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Grid, Cell, List, ListItem, ListItemContent } from "react-mdl";
+import profileImage from "./images/HZS_2013.JPG"
 
 
 
@@ -11,11 +12,14 @@ class Contact extends Component {
                     <Cell col={6}>
                         <h2>Harold Zuluaga</h2>
                         <img
-                            src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                            src={profileImage}
                             alt="avatar"
                             style={{height: '250px'}}
                         />
-                        <p style={{ width: '75%', margin:'auto', paddingTop: '1em'}}>Elit ut aliquam purus sit amet luctus venenatis lectus magna. Neque aliquam vestibulum morbi blandit cursus risus at ultrices.</p>
+                        <p style={{ width: '75%', margin:'auto', paddingTop: '1em'}}>Full Stack Developer with Aerospace Management and Operations Experience
+                        I am an experienced individual who strives on doing a thorough work every day, I value each and everyday at the office and always have in mind to go towards improvement in all areas not only for my personal growth but the company and for all my work peers.
+                        I always put the company I work for first and I treat it as if it was my own, I realized that if we think on increasing the bottom line of the company it will be beneficial for all employees.
+                        I love analyzing and solving problems and through my career I found that there is always a good solution for any problem and we need to thrive to solve them in a timely manner and with the best of attitude towards the problem but mainly towards the company's environment, dealing with people is not an easy task but we need to be very professional no matter how complicated things may look. .</p>
                     </Cell>
                     <Cell col={6}>
                         <h2>Contact Me</h2>
