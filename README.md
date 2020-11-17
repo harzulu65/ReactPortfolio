@@ -1,4 +1,4 @@
-# ReactPortfolio
+# React Portfolio
 
 ## Note for Heroku loading: The page takes some time to load, please be patient as the Landing page is completed, once the landing page is visibile the app can be tested.
 
