@@ -57,6 +57,9 @@ class Resume extends Component {
                             endYear={2020}
                             jobName="Safran Aerospace"
                             jobDescription="Business/Systems Analyst - Operations Planner - Program Administrator - Program Manager"
+                            accomplishments="First Business Analyst with Computer Science Background, this changed the company to recruit most of today's BAs with the same background (Work on ERP/MRP). 
+                                            High output on Operations Planning with extensive work in capacity planing, Sales and Operations Planning, 
+                                            Improvement Projects and Customer Support to Boeing and Airbus and Airline customers throughout the world "
 
                         />
 
@@ -64,7 +67,8 @@ class Resume extends Component {
                             startYear={2001}
                             endYear={2008}
                             jobName="ECC"
-                            jobDescription="Medical/Technical/Admin"
+                            jobDescription="Medical/Technical/Admin "
+                            accomplishments="Extensive travel to more than 20 states in US with a high performance in Client's satisfaction and support as well as high output in results for ECC"
 
                         />
 
@@ -73,27 +77,14 @@ class Resume extends Component {
                             endYear={1999}
                             jobName="Datascan  -  Cibergenius"
                             jobDescription="Technical Support Engineer - Computers- Software - Warehouse Wireless Networks - Barcode Technology"
+                            accomplishments="Extensive traveling to most important clients in retail industry in Colombia with very high customer satisfaction "
                         />
                         <hr style={{borderTop:'3px solid #e22947'}} />
                         <h2>Skills</h2>
-
-                        <Skills 
-                            skill='HTMLCSS'
-                            progress={50}
-                        />
-                        <Skills 
-                            skill='JavaScript'
-                            progress={60}
-                        />
-                        <Skills 
-                            skill='Node JS'
-                            progress={50}
-                        />
-                        <Skills 
-                            skill='React'
-                            progress={25}
-                        />
-
+                        <p>HTMLCSS</p>
+                        <p>JavaScript</p>
+                        <p>Node JS</p>    
+                        <p>React</p>
                     </Cell>
                 </Grid>
             </div>

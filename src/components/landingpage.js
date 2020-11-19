@@ -14,9 +14,9 @@ class Landing extends Component {
                             alt="avatar"
                             className="avatar-img"
                             />
-                        <div className="banner-text">
-                            <h1>Full Stack Web Developer</h1>
-
+                            <div className="banner-text">
+                                <h1>Full Stack Web Developer</h1>
+                                <p> I am an experienced individual who strives on doing a thorough work every day, I value each and everyday at the office and always have in mind to go towards improvement in all areas not only for my personal growth but the company and for all my work peers. I always put the company I work for first and I treat it as if it was my own.</p>
                             <hr/>
 
                             <p>HTML/CSS | Javascript | Express | React | Node JS | MongoDB</p>
