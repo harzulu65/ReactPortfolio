@@ -40,7 +40,7 @@ class Resume extends Component {
                             startYear={2020}
                             endYear={2020}
                             schoolName="University of California - Irvine"
-                            schoolDescription="Full Stack Web Development Certificate"
+                            schoolDescription="Full Stack Web Development Certificate. A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. "
                             /> 
 
                         <Education 
